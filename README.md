@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Krishna Tarun Challa (@Chtk118)
+# 👋 Hi, I’m Krishna Tarun Challa
 
 🎓 I’m currently pursuing B.E. in Computer Science (IoT, Cybersecurity & Blockchain) at CBIT, Hyderabad.  
 🔐 Recently completed a Cybersecurity Internship at TCS under the OTON Initiative.  
